@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Dunya Kirkali <dunyakirkali@gmail.com>"]
 description = "Support for AsciiDoc syntax"
-repository = "https://github.com/dunyakirkali/zed-asciidoc"
+repository = "https://github.com/dunyakirkali/zadoc"
 
 [grammars.asciidoc]
 repository = "https://github.com/cathaysia/tree-sitter-asciidoc"
