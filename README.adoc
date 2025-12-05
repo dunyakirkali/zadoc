@@ -1,0 +1,5 @@
+= Zed AsciiDoc
+
+The Zed link:https://asciidoc.org/AsciiDoc[AsciiDoc] extension.
+
+Based on link:https://github.com/cathaysia/tree-sitter-asciidoc[tree-sitter-asciidoc].
