@@ -1,4 +1,4 @@
-(document_title) @title @string.special
+(document_title) @title @variant
 
 [
     (title1)
@@ -10,14 +10,14 @@
 
 (email) @link_uri
 
-; (author_line
-;   ";" @punctuation.delimiter)
+(author_line
+  ";" @punctuation.delimiter)
 
-; (revision_line
-;   "," @punctuation.delimiter
-;   ":" @punctuation.delimiter)
+(revision_line
+  "," @punctuation.delimiter
+  ":" @punctuation.delimiter)
 
-; (list_continuation) @constant
+(list_continuation) @constant
 
 [
   (firstname)
