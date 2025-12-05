@@ -1,4 +1,4 @@
-(document_title) @title
+(document_title) @title @string.special
 
 [
     (title1)
