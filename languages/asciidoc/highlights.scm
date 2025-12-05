@@ -38,23 +38,23 @@
 (table_cell
   "|" @punctuation.special)
 
-; [
-;   (breaks)
-;   (hard_wrap)
-;   (quoted_block_md_marker)
-;   (quoted_paragraph_marker)
-;   (open_block_marker)
-;   (listing_block_start_marker)
-;   (listing_block_end_marker)
-;   (literal_block_marker)
-;   (passthrough_block_marker)
-;   (quoted_block_marker)
-;   (ntable_block_marker)
-;   (callout_marker)
-; ] @punctuation.special
+[
+  (breaks)
+  (hard_wrap)
+  (quoted_block_md_marker)
+  (quoted_paragraph_marker)
+  (open_block_marker)
+  (listing_block_start_marker)
+  (listing_block_end_marker)
+  (literal_block_marker)
+  (passthrough_block_marker)
+  (quoted_block_marker)
+  (ntable_block_marker)
+  (callout_marker)
+] @punctuation.special
 
-; (ntable_cell
-;   "!" @punctuation.special)
+(ntable_cell
+  "!" @punctuation.special)
 
 ; (checked_list_marker_unchecked) @markup.list.unchecked
 
